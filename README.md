@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Atul Chaudhary</h1>
-<h3 align="center">Passionate learner and aspiring software engineer, building skills and solving problems one line of code at a time.</h3>
+<h3 align="center">Passionate learner and aspiring software engineer, building skills and solving problems one line of code at a time💻🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulchaudh15&label=Profile%20views&color=0e75b6&style=flat" alt="atulchaudh15" /> </p>
 
