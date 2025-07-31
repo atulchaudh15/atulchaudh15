@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures And Algorithms**
 
-- 📫 How to reach me **atulchaudhary9450@gmail.com**
+- 📫 How to reach me **atulchaudh9450@gmail.com**
 
 - ⚡Fun fact: **Just another coder meticulously crafting bugs that future me will heroically debug at 3 a.m.**
 
